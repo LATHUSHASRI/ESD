@@ -4,4 +4,8 @@ pizza
 rice and curry
 chicken fry
 
+
+beans
+pasta
+
 thank you 
